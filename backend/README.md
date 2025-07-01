@@ -1,5 +1,4 @@
-```markdown
-# 🧠 MediMeet – LLM-Powered Doctor Appointment & Reporting Assistant
+🧠 MediMeet – LLM-Powered Doctor Appointment & Reporting Assistant
 
 MediMeet is a full-stack AI-powered assistant that enables patients to book appointments via natural language prompts and helps doctors receive smart summaries of their schedules. It integrates FastAPI, PostgreSQL, Gemini API, Google Calendar, and Gmail.
 
