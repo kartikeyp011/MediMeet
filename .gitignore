@@ -1,0 +1,33 @@
+# === PYTHON BACKEND ===
+venv/
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.db
+*.env
+.env.*
+
+# FastAPI specific
+instance/
+*.log
+
+# === NODE FRONTEND ===
+node_modules/
+dist/
+.env.local
+.env.development
+.env.production
+
+# === OS / IDE FILES ===
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# === TEST / COVERAGE ===
+coverage/
+htmlcov/
+.pytest_cache/
+.cache/

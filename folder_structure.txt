@@ -1,0 +1,27 @@
+Folder PATH listing for volume Kartikey
+Volume serial number is 9EF1-6BC7
+K:.
+|   .gitignore
+|   folder_structure.txt
+|   
++---backend
+|   |   .env
+|   |   database.py
+|   |   init_db.py
+|   |   requirements.txt
+|   |   __init__.py
+|   |   
+|   +---app
+|   |   +---core
+|   |   +---db
+|   |   +---llm
+|   |   +---models
+|   |   |       appointments.py
+|   |   |       doctor.py
+|   |   |       patient.py
+|   |   |       visit_log.py
+|   |   |       
+|   |   +---routers
+|   |   +---schemas
+|   |   +---tools
+|   |   \---utils
